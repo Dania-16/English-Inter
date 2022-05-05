@@ -1,0 +1,134 @@
+
+header{
+    height: 20px;
+    }
+    header, img{
+    width: 7%;
+    }
+    
+    header, .main footer{
+    width: 90%;
+    height: 120px;
+    }
+    
+    .navbar-brand{
+    color: rgb(250, 246, 227);
+    font-family: 'Shrikhand', cursive;
+    font-size: 75px;
+      }
+  
+      header nav ul li{
+        float: left;
+        text-decoration: none;
+        
+      }
+
+      a{
+    font-size: 18.2px;
+      }
+     
+
+
+.container{
+width: 90%;
+margin: auto;
+}
+
+h3{
+color: navy;
+}
+
+
+
+ul li a:hover{
+    background-color: rgb(7, 112, 42);
+    transition: 1.5s;
+    border-radius: 3px;
+    }
+    
+h2{
+font-family: 'Shrikhand', cursive;
+color: green;
+}
+
+h1{
+    font-family: 'Shrikhand', cursive;
+    color: green;
+    }
+.articles{
+background-color: rgba(124, 124, 124, 0.14);
+border-radius: 7px;
+font-family: 'Lexend', sans-serif;
+margin-left: 80px;
+margin-right: 80px;
+margin-top: 20px;
+padding: 15px;
+}
+
+.card bg-dark text-white{
+    width: 100%;
+    margin: 0%;
+    width: 100%;
+    }
+
+    .sectionelements{
+        font-family: 'Lexend', sans-serif;
+        color: navy;
+        width: 780px;
+        margin-right: 10px;
+        margin-left: 50px;
+        text-align: justify;
+        float: left;
+    }
+
+    .sectionelements2{
+        font-family: 'Lexend', sans-serif;
+        color: navy;
+        width: 780px;
+        margin-right: 20px;
+        margin-left: 50px;
+        text-align: justify;
+        float: left;
+    }
+
+    .card{
+    margin: auto;
+
+    }
+
+    .article2{
+    font-family: 'Lexend', sans-serif;
+    margin-left: 10rem;
+    margin-right: 10rem;
+background-color: rgba(255, 217, 0, 0.134);
+border-radius: 7px;
+padding: 20px;
+    }
+
+    .resumé{
+        font-family: 'Lexend', sans-serif;
+        margin-right: 15rem;
+        margin-left: 15rem;
+    }
+    .card-img{
+    float: left;
+    margin-left: 5rem;
+    margin-right: 47px;
+    margin-top: 0;
+    }
+
+    aside{
+    margin-left: 5rem;
+    margin-right: 100px;
+    font-family: 'Lexend', sans-serif;
+    
+    }
+    ol{
+        font-family: 'Lexend', sans-serif;
+    }
+    
+    .imgjob{
+    margin-left: 6rem;
+    width: 450px;
+    }
+    

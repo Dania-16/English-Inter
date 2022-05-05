@@ -1,0 +1,72 @@
+header{
+    background-color: forestgreen;
+    
+    
+    }
+    header, .webpage{
+        color: bisque;
+        font-family: 'Shrikhand', cursive;
+        text-align: center;
+    }
+
+    .card tt, .card-body{
+    padding: 30px;
+    font-family: 'Lexend', sans-serif;
+    }
+
+    article{
+        font-family: 'Lexend', sans-serif;
+        margin: 100px;
+        
+    }
+     article{
+    background-color: rgba(4, 4, 4, 0.06);
+    border-radius: 8px;
+    margin: 40px;
+    padding: 10px;
+     }
+
+     .card{
+    padding: 50px;
+     
+     }
+     .card-body{
+    padding-left: 50px;
+    font-family: 'Lexend', sans-serif;
+    
+     }
+
+     .card-header{
+        font-family: 'Lexend', sans-serif;
+     }
+     
+     .card{
+    margin: 200px;
+     }
+    .card-title{
+        font-family: 'Shrikhand', cursive;
+        color: green;
+        text-align: center;
+    }
+     h1{
+        font-family: 'Shrikhand', cursive;
+        color: green;
+        text-align: center;  
+     }
+
+     ul li a:hover{
+        background-color: rgb(7, 112, 42);
+        transition: 1.5s;
+        border-radius: 3px;
+        }
+
+        .navbar-brand{
+            color: rgb(250, 246, 227);
+            font-family: 'Shrikhand', cursive;
+            font-size: 75px;
+        }            
+
+        .main{
+        width: 90%;
+        margin: auto;
+        }

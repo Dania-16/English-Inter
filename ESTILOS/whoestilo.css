@@ -1,0 +1,100 @@
+header{
+    height: 20px;
+    }
+    header, img{
+    width: 7%;
+    }
+    
+    header, .main footer{
+    width: 90%;
+    height: 120px;
+    }
+    
+    .navbar-brand{
+    color: rgb(250, 246, 227);
+    font-family: 'Shrikhand', cursive;
+    font-size: 75px;
+      }
+  
+      header nav ul li{
+        float: left;
+        text-decoration: none;
+      }
+
+      .articles{
+        font-family: 'Lexend', sans-serif;
+        margin-left: 50px;
+        
+      }
+
+      h1{
+      font-family: 'Shrikhand', cursive;
+      text-align: center;
+      color: green;
+      }
+
+    
+
+      ul li a:hover{
+        background-color: rgb(7, 112, 42);
+        transition: 1.5s;
+        border-radius: 3px;
+        }
+
+        .mision{
+        background-color: rgba(255, 217, 0, 0.127);
+        margin: 30px;
+        padding: 30px;
+        border-radius: 8px;
+        width: 30%;
+        font-family: 'Lexend', sans-serif;
+        margin-left: 115px;
+        
+        }
+        .vision{
+          background-color: rgba(255, 217, 0, 0.127);
+          margin: 30px;
+        padding: 30px;
+        border-radius: 8px;
+        width: 30%;
+        font-family: 'Lexend', sans-serif;
+        margin-left: 115px;
+
+          }
+
+          h2{
+            font-family: 'Shrikhand', cursive;
+            text-align: center;
+            color: green;
+          }
+
+         .imagens{
+          width: 50%;
+            float: right;
+            padding-top: 30px;
+            margin: auto;
+            margin-left: 25px;
+           margin-right: 20px;
+          }
+
+          .card-text{
+            font-family: 'Lexend', sans-serif;
+            color: black;
+          }
+
+          .card-title{
+            font-family: 'Shrikhand', cursive;
+            text-align: center;
+            color: green;
+          }
+
+          .card bg-dark text-white{
+          margin: auto;
+          margin-top: 200px;
+          margin-right: 100px;
+          }
+
+          .main{
+          width: 90%;
+          margin: auto;
+          }

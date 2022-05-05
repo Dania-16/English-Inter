@@ -1,0 +1,86 @@
+header{
+    height: 20px;
+    }
+    header, img{
+    width: 7%;
+    }
+    
+    header, .main footer{
+    width: 90%;
+    height: 120px;
+    }
+    
+    .navbar-brand{
+    color: rgb(250, 246, 227);
+    font-family: 'Shrikhand', cursive;
+    font-size: 75px;
+      }
+
+
+      .contenedor{
+      width: 90%;
+      margin: auto;
+      }
+  
+      header nav ul li{
+        float: left;
+        text-decoration: none;
+      }
+
+      .articles{
+        font-family: 'Lexend', sans-serif;
+      }
+    h2{
+        font-family: 'Lexend', sans-serif;
+    }
+    .articles, .article-1{
+    margin: 60px;
+    font-family: 'Lexend', sans-serif;
+
+    }
+
+
+    ul li a:hover{
+      background-color: rgb(7, 112, 42);
+      transition: 1.5s;
+      border-radius: 3px;
+      }
+
+
+
+     .vocabulary-1{
+    margin:50px;
+    padding: 20px;
+    border-style:groove;
+    border-radius: 5px;
+    border-color: khaki;
+    }
+
+    .card{
+    border-color: lightgoldenrodyellow;
+    border-style: dashed;
+    font-family: 'Lexend', sans-serif;
+
+    }
+    h1{
+      font-family: 'Shrikhand', cursive;
+      color: green;
+      text-align: center;
+    }
+    .vocabulary-2{
+    
+        margin: 40px;
+        border-style:groove;
+        border-radius: 5px;
+        border-color: rgb(137, 206, 128);
+    }
+
+    .col-md-8, img{
+    float: right;
+    }
+
+    .vocabulary-1{
+    background-color: rgba(255, 217, 0, 0.103);
+    margin: 15px;
+    border-radius: 6px;
+    }

@@ -1,0 +1,51 @@
+header{
+    height: 20px;
+    }
+    header, img{
+    width: 7%;
+    }
+    
+    header, .main footer{
+    width: 90%;
+    height: 120px;
+    }
+    
+    .navbar-brand{
+    color: rgb(250, 246, 227);
+    font-family: 'Shrikhand', cursive;
+    font-size: 75px;
+      }
+  
+      header nav ul li{
+        float: left;
+        text-decoration: none;
+     }
+
+     h1{
+        font-family: 'Shrikhand', cursive;
+        color: green;
+        text-align: center;
+    }
+
+    .card-body{
+       font-family:  'Lexend', sans-serif;
+
+    }
+
+    .card{
+    width: 80;
+    margin: auto;
+    }
+
+    .contenedor{
+   width: 90%;
+   margin: auto;
+    }
+
+ 
+
+    ul li a:hover{
+        background-color: rgb(7, 112, 42);
+        transition: 1.5s;
+        border-radius: 3px;
+        }

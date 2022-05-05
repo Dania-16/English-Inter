@@ -1,0 +1,76 @@
+header{
+    height: 20px;
+    }
+    header, img{
+    width: 7%;
+    }
+    
+    header, .main footer{
+    width: 90%;
+    height: 120px;
+    }
+    
+    .navbar-brand{
+    color: rgb(250, 246, 227);
+    font-family: 'Shrikhand', cursive;
+    font-size: 75px;
+      }
+  
+      header nav ul li{
+        float: left;
+        text-decoration: none;
+     }
+
+    
+
+    #contenido{
+    margin-right: 200px;
+    text-align: justify;
+    margin-left: 200px;
+    background-color: rgba(252, 241, 34, 0.193);
+    border-radius: 8px;
+    padding: 20px;
+
+    }
+
+    h1{
+        font-family: 'Shrikhand', cursive;
+        color: green;
+    }
+    h2{
+        font-family: 'Lexend Deca', sans-serif;
+    }
+
+    .main, .articles, p{
+        font-family: 'Lexend Deca', sans-serif;
+    }
+
+    .article2{
+        margin-right: 200px;
+        text-align: justify;
+        margin-left: 200px;
+        background-color: rgba(252, 241, 34, 0.193);
+        border-radius: 8px;
+        padding: 20px;
+    }
+
+    .article3{
+        margin-right: 200px;
+        text-align: justify;
+        margin-left: 200px;
+        background-color: rgba(252, 241, 34, 0.193);
+        border-radius: 8px;
+        padding: 20px;
+    }
+
+    ul li a:hover{
+        background-color: rgb(7, 112, 42);
+        transition: 1.5s;
+        border-radius: 3px;
+        }
+
+    .main{
+    width: 90%;
+    margin: auto;
+    }
+    

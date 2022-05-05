@@ -1,0 +1,118 @@
+body{
+background-color: #dddddd;
+}
+
+body{
+max-width: none;
+min-height: none;
+}
+
+header{
+height: 20px;
+}
+header, img{
+width: 7%;
+}
+body{
+background-color: rgb(255, 247, 161);
+}
+header, .main footer{
+width: 90%;
+height: 120px;
+}
+
+.navbar-brand{
+color: rgb(250, 246, 227);
+font-family: 'Shrikhand', cursive;
+font-size: 75px;
+
+}
+.card{
+margin: 15px;
+color: rgb(0, 0, 0);
+border-radius: 8px;
+font-family: 'Lexend', sans-serif;
+}
+.card-body, .btn btn-primary{
+background-color: rgba(47, 177, 105, 0.555);
+padding: 40px;
+}
+
+.card text-dark bg-light mb-3{
+float: right;
+width: 20%;
+margin-top: 50px;
+}
+
+
+
+h1{
+text-align: center;
+
+}
+
+li{
+color: rgb(255, 255, 240);
+
+}
+
+ul li a:hover{
+    background-color: rgb(7, 112, 42);
+    transition: 1.5s;
+    border-radius: 3px;
+    }
+
+    
+.container{
+width: 90%;
+margin: auto;
+}
+ 
+ 
+
+header nav ul li{
+float: left;
+
+
+}
+
+
+header nav ul li a{
+color: aliceblue;
+padding: 10px 20px;
+text-decoration: none;
+display: block;
+}
+header nav ul li a:hover{
+background-color: lemonchiffon;
+transition: 5s;
+}
+.main .articles{
+border-radius: 7px;
+background-color: #f3f2f2;
+margin: auto;
+width: 65.5%;
+float: left;
+margin: 70px;
+color: darkblue;
+font-family: 'Lexend', sans-serif;
+}
+
+
+
+footer{
+background-color: #197404;
+text-align: center;
+color: rgb(255, 255, 255);
+padding: 10px;
+border-radius: 15px;
+clear: both;
+font-family: 'Shrikhand', cursive;
+height: 60px;
+font-size: 24px;
+}
+
+.card bg-dark text-white{
+width: 100%;
+}
+

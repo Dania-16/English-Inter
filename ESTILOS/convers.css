@@ -1,0 +1,150 @@
+
+
+
+header{
+    height: 20px;
+    }
+    header, img{
+    width: 7%;
+    }
+    
+    header, .main footer{
+    width: 90%;
+    height: 120px;
+    }
+    
+    .navbar-brand{
+    color: rgb(250, 246, 227);
+    font-family: 'Shrikhand', cursive;
+    font-size: 75px;
+      }
+  
+      header nav ul li{
+        float: left;
+        text-decoration: none;
+        
+      }
+     
+
+     .articless{
+      width: 90%;
+      margin: auto;
+     }
+
+
+      ul li a:hover{
+        background-color: rgb(7, 112, 42);
+        transition: 1.5s;
+        border-radius: 3px;
+        }
+
+      h1{
+        font-family: 'Shrikhand', cursive;
+        color: green;
+        text-align: center;
+      }
+
+      .articles{
+      background-color: rgba(211, 211, 211, 0.322);
+      float: left;
+      font-family: 'Lexend', sans-serif;
+      width: 52%;
+      border-radius: 7px;
+      margin-left: 40px;
+      padding: 10px;
+      margin-bottom: 90px;
+      }
+
+       .imgtips{
+      float: right;
+      width: 30%;
+      margin-right: 30px;
+      }
+
+      .arti2{
+      background-color: rgba(255, 217, 0, 0.19);
+      float: right;
+      width: 52%;
+      font-family: 'Lexend', sans-serif;
+      padding: 10px;
+      margin-right: 35px;
+      border-radius: 7px;
+      }
+
+      .IMAGEN1{
+      margin-left: 30px;
+      width: 38%;
+      height: 500px;
+      margin-top: 200px;
+      }
+
+      .IMAGEN2{
+        margin-RIGHT: 30px;
+        width: 38%;
+        height: 600px;
+        margin-top: 70px;
+        float: right;
+        
+      }
+
+      .arti3{
+        background-color: rgba(211, 211, 211, 0.322);
+        float: left;
+        font-family: 'Lexend', sans-serif;
+        width: 52%;
+        border-radius: 7px;
+        margin-left: 40px;
+        padding: 10px;
+        margin-top: 90px;
+      }
+
+      .IMAGEN3{
+        margin-left: 30px;
+        width: 38%;
+        height: 620px;
+        margin-top: 200px;
+      }
+
+      .arti4{
+        background-color: rgba(255, 217, 0, 0.19);
+        float: right;
+        width: 52%;
+        font-family: 'Lexend', sans-serif;
+        padding: 10px;
+        margin-right: 35px;
+        border-radius: 7px;
+        margin-top: 90px;
+      }
+
+      .IMAGEN4{
+        margin-RIGHT: 30px;
+        width: 38%;
+        height: 350px;
+        margin-top: 70px;
+        float: right;
+        margin-top: 120px;
+      }
+
+      .arti5{
+        background-color: rgba(211, 211, 211, 0.322);
+        float: left;
+        font-family: 'Lexend', sans-serif;
+        width: 52%;
+        border-radius: 7px;
+        margin-left: 40px;
+        padding: 10px;
+        margin-top: 90px;
+      }
+
+      .IMAGEN5{
+        margin-left: 30px;
+        width: 38%;
+        height: 520px;
+        margin-top: 200px;
+        margin-top: 130px;
+      }
+
+
+      .card-body{
+      font-family: 'Lexend', sans-serif;
+      }

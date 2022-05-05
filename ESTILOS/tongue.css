@@ -1,0 +1,71 @@
+header{
+  height: 20px;
+  }
+  header, img{
+  width: 7%;
+  }
+  
+  header, .main footer{
+  width: 90%;
+  height: 120px;
+  }
+  
+  .navbar-brand{
+  color: rgb(250, 246, 227);
+  font-family: 'Shrikhand', cursive;
+  font-size: 75px;
+    }
+
+    header nav ul li{
+      float: left;
+      text-decoration: none;
+    }
+
+   h1{
+    font-family: 'Shrikhand', cursive;
+    color: green;
+    text-align: center;
+   }
+
+  .tongt{
+    font-family: 'Lexend', sans-serif;
+
+    margin: 60px;
+  }
+
+  .tongue{
+color:green;
+  }
+
+  .tt{
+    background-color: rgba(4, 4, 4, 0.06);
+    border-radius: 8px;
+    margin: 70px;
+    padding: 10px;
+    font-family: 'Lexend', sans-serif;
+
+  }
+
+  .tongt{
+ background-color: rgba(60, 184, 77, 0.123);
+ margin: 65px;
+ padding: 15px;
+ border-radius: 10px;
+
+  }
+
+
+  ul li a:hover{
+    background-color: rgb(7, 112, 42);
+    transition: 1.5s;
+    border-radius: 3px;
+    }
+
+    .card{
+      font-family: 'Lexend', sans-serif;
+    }
+
+    .main{
+    width: 90%;
+    margin: auto;
+    }
